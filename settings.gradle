@@ -1,0 +1,2 @@
+rootProject.name = "ZuriTaskLogin"
+include ':app'
